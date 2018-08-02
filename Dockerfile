@@ -1,7 +1,7 @@
 #目前dockerhub上Python官方支持的镜像，基础镜像是debian9.5
-#python3.7.0镜像中使用的python版本是3.7.0，已安装配置pip工具
+#python3.6.3镜像中使用的python版本是3.6.3，已安装配置pip工具
 
-FROM python:3.7.0
+FROM python:3.6.3
 MAINTAINER jamesz2011 <jamesz2011@126.com>
 
 #指定docker容器的工作目录为"/opt",容器一启动就进入“/opt”目录
