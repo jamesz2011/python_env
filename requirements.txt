@@ -15,7 +15,7 @@ glob2==0.6
 html-testRunner==1.1.2
 html2pdf==0.1
 idna==2.7
-Jinja2==2.9.5
+Jinja2==2.11.3
 json-tools==0.4.1
 JSONFormatBear==0.10.0
 jsonpath==0.75
