@@ -32,7 +32,7 @@ pkginfo==1.4.2
 pluggy==0.7.1
 public==1.0.3
 py==1.5.4
-Pygments==2.2.0
+Pygments==2.7.4
 pytest==3.7.2
 pytest-bdd==2.21.0
 pytest-cov==2.6.0
